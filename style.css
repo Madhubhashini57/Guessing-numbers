@@ -1,0 +1,20 @@
+.background{
+    background-color: #192a56;
+}
+h1{
+    background-color: rgb(234, 223, 223);
+    text-align: center;
+    color: white;
+}
+p{
+    background-color: #44bd32;
+    text-align: center;
+    color: white;
+}
+body{
+    background-image: url("images/guessing\ 2.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
